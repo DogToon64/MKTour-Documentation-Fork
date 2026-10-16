@@ -20,6 +20,12 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 ## Wikis & Databases
 - [Super Mario Wiki](https://www.mariowiki.com/Mario_Kart_Tour)
 - [Mario Kart Tour Public Database](https://github.com/knobse/Mario-Kart-Tour/wiki)
+- [Mario Kart Tour World Records](https://mktwrs.com/)
+- [ACR Bot Archive Server](https://discord.gg/PAh4A7meTc)
+- [Ice Mario Bot Archive Server](https://discord.gg/wUkcdQv8Kx)
+
+## Archived Community Sites
+- [MKT Bots Website](https://web.archive.org/web/20261016060355/https://mktbots.com/)
 
 ## Unreleased Content
 - [The Cutting Room Floor](https://tcrf.net/Mario_Kart_Tour)
