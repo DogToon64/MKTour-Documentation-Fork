@@ -21,6 +21,7 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 - [Super Mario Wiki](https://www.mariowiki.com/Mario_Kart_Tour)
 - [Mario Kart Tour Public Database](https://github.com/knobse/Mario-Kart-Tour/wiki)
 - [Mario Kart Tour World Records](https://mktwrs.com/)
+- [Mario Kart Central World Records](https://timetrials.mktour.workers.dev/)
 - [ACR Bot Archive Server](https://discord.gg/PAh4A7meTc)
 - [Ice Mario Bot Archive Server](https://discord.gg/wUkcdQv8Kx)
 
