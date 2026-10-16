@@ -27,6 +27,8 @@ Please note that these archives are not related to the Mario Kart Tour Preservat
 
 ## Archived Community Sites
 - [MKT Bots Website](https://web.archive.org/web/20261016060355/https://mktbots.com/)
+- [Mario Kart Tour Competitive Lounge Website](https://web.archive.org/web/20260905182431/https://mariokarttour.net/)
+- [Mario Kart Tour Competitive Lounge Discord](https://discord.gg/AqA3FMPJQe)
 
 ## Unreleased Content
 - [The Cutting Room Floor](https://tcrf.net/Mario_Kart_Tour)
